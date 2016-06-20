@@ -2,7 +2,7 @@ resources:
 - name: music-repo
   type: git
   source:
-    uri: git@github.com:bbyers-pivotal/spring-music.git
+    uri: {{SPRING_MUSIC_REPO}}
     branch: master
     private_key: {{MUSIC_PRIVATE_KEY}}
 
