@@ -2,8 +2,8 @@ resources:
 - name: music-repo
   type: git
   source:
-    uri: {{SPRING_MUSIC_REPO}}
-    branch: master
+    uri: {{GIT_SPRING_MUSIC_REPO}}
+    branch: {{GIT_BRANCH}}
     private_key: {{MUSIC_PRIVATE_KEY}}
 
 - name: deploy-development-app
