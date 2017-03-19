@@ -15,4 +15,4 @@ outputs:
   - name: artifact-dir
 
 run:
-  path: source_code/ci/tasks/build-artifact.sh
+  path: Bitbucket_Repository/ci/tasks/build-artifact.sh
