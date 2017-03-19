@@ -9,7 +9,7 @@ image_resource:
 
 
 inputs:
-  - name: source_code
+  - name: Bitbucket_Repository
 
 outputs:
   - name: artifact-dir
