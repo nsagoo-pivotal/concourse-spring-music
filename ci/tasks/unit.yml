@@ -8,7 +8,7 @@ image_resource:
     tag: "latest"
 
 inputs:
-  - name: git-repo
+  - name: source_code
 
 run:
-  path: git-repo/ci/tasks/unit.sh
+  path: source_code/ci/tasks/unit.sh
