@@ -1,6 +1,7 @@
 ---
 applications:
 - name: spring-music-dev
-  memory: 512M
+  buildpack: java_buildpack_offline
+  memory: 1G
   instances: 1
-  host: spring-music-dev
+  random-route: true
