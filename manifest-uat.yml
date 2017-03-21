@@ -1,6 +1,0 @@
----
-applications:
-- name: spring-music-uat
-  memory: 512M
-  instances: 1
-  host: spring-music-uat
