@@ -8,13 +8,6 @@
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "The Beach Boys",
-        "title": "Pet Sounds",
-        "releaseYear": "1966",
-        "genre": "Rock"
-    },
-    {
-        "_class": "org.cloudfoundry.samples.music.domain.Album",
         "artist": "Marvin Gaye",
         "title": "What's Going On",
         "releaseYear": "1971",
@@ -43,13 +36,6 @@
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Fleetwood Mac",
-        "title": "Rumours",
-        "releaseYear": "1977",
-        "genre": "Rock"
-    },
-    {
-        "_class": "org.cloudfoundry.samples.music.domain.Album",
         "artist": "Elvis Presley",
         "title": "Sun Sessions",
         "releaseYear": "1976",
@@ -67,34 +53,6 @@
         "artist": "The Rolling Stones",
         "title": "Exile on Main Street",
         "releaseYear": "1972",
-        "genre": "Rock"
-    },
-    {
-        "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Bruce Springsteen",
-        "title": "Born to Run",
-        "releaseYear": "1975",
-        "genre": "Rock"
-    },
-    {
-        "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "The Clash",
-        "title": "London Calling",
-        "releaseYear": "1980",
-        "genre": "Rock"
-    },
-    {
-        "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "The Eagles",
-        "title": "Hotel California",
-        "releaseYear": "1976",
-        "genre": "Rock"
-    },
-    {
-        "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Led Zeppelin",
-        "title": "Led Zeppelin",
-        "releaseYear": "1969",
         "genre": "Rock"
     },
     {
@@ -186,20 +144,6 @@
         "artist": "Robert Johnson",
         "title": "King of the Delta Blues",
         "releaseYear": "1961",
-        "genre": "Blues"
-    },
-    {
-        "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Stevie Ray Vaughan",
-        "title": "Texas Flood",
-        "releaseYear": "1983",
-        "genre": "Blues"
-    },
-    {
-        "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Stevie Ray Vaughan",
-        "title": "Couldn't Stand The Weather",
-        "releaseYear": "1984",
         "genre": "Blues"
     }
 ]
